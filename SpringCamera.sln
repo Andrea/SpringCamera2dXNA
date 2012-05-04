@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringCamera", "SpringCamera\SpringCamera\SpringCamera.csproj", "{F4B69005-5134-460E-9320-BD8FB387E825}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SpringCameraContent", "SpringCamera\SpringCameraContent\SpringCameraContent.contentproj", "{466ACC93-050E-4BB3-AD3F-3444F2069E86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4B69005-5134-460E-9320-BD8FB387E825}.Debug|x86.ActiveCfg = Debug|x86
+		{F4B69005-5134-460E-9320-BD8FB387E825}.Debug|x86.Build.0 = Debug|x86
+		{F4B69005-5134-460E-9320-BD8FB387E825}.Release|x86.ActiveCfg = Release|x86
+		{F4B69005-5134-460E-9320-BD8FB387E825}.Release|x86.Build.0 = Release|x86
+		{466ACC93-050E-4BB3-AD3F-3444F2069E86}.Debug|x86.ActiveCfg = Debug|x86
+		{466ACC93-050E-4BB3-AD3F-3444F2069E86}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
